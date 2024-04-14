@@ -1,3 +1,6 @@
+def add(a,b):
+      return a+b
+
 #initializing the variables
 num1 = 10
 num2 = 5
